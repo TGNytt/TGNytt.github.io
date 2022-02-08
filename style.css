@@ -114,7 +114,7 @@ margin-top: 1%;
 }
 .container {
   display: flex; /* or inline-flex */
-  flex-direction: row;
+  flex-direction: column;
   flex-wrap: nowrap;
   justify-content: space-around;
 }
