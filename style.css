@@ -123,5 +123,5 @@ margin-top: 1%;
   display: flex; /* or inline-flex */
   flex-direction: row;
   flex-wrap: nowrap;
-  justify-content: space-between;
+  justify-content: center;
 }
